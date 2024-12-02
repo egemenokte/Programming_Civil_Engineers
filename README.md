@@ -103,6 +103,8 @@ Covers statistical simulation techniques to model uncertainty and variability in
 
 ## How to Use
 
+### Method 1: Clone
+
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/CEE244-Programming-for-Engineers.git
@@ -110,7 +112,25 @@ Covers statistical simulation techniques to model uncertainty and variability in
 2. Navigate to the relevant module folder.
 3. Open the `.ipynb` files in Jupyter Notebook or Google Colab.
 4. Follow the instructions and complete exercises provided in the notebooks.
+Here’s a concise version for the README:
 
+---
+
+### method 2: Open Directly in Google Colab
+
+To open notebooks directly from GitHub in Google Colab:
+
+1. Open [Google Colab](https://colab.research.google.com/).
+2. Go to **File > Open Notebook**.
+3. Select the **GitHub** tab.
+4. Paste the GitHub URL of the notebook (e.g., `https://github.com/egemenokte/Programming_Civil_Engineers/blob/main/P1_Python_Basics_Data_Types.ipynb`) and press Enter.
+5. Click on the notebook name to open it in Colab.
+
+Example:  
+To open the **P1: Python Basics and Data Types** notebook, paste:  
+`https://github.com/egemenokte/Programming_Civil_Engineers/blob/main/P1_Python_Basics_Data_Types.ipynb`
+
+---
 ## Contributing
 
 Contributions to enhance the materials or suggest improvements are welcome! Please submit a pull request or open an issue for discussion.

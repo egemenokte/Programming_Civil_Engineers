@@ -1,4 +1,4 @@
-# CEE 244 - Programming for (Civil) Engineers
+#Programming for (Civil) Engineers
 
 Welcome to the GitHub repository for CEE 244: Programming for Engineers, offered by the Department of Civil and Environmental Engineering at UMass Amherst. This course introduces essential programming concepts and applications tailored for engineers, using Python as the primary language. While the course content is sometimes tailored for Civil Engineers, it covers the essentials of programming concepts that all engineers could benefit from.
 

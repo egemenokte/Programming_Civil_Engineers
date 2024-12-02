@@ -114,9 +114,7 @@ Covers statistical simulation techniques to model uncertainty and variability in
 4. Follow the instructions and complete exercises provided in the notebooks.
 Here’s a concise version for the README:
 
----
-
-### method 2: Open Directly in Google Colab
+### Method 2: Open Directly in Google Colab
 
 To open notebooks directly from GitHub in Google Colab:
 

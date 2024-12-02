@@ -89,7 +89,7 @@ Introduces symbolic computation with `sympy` and numerical methods for solving m
 **Description:**  
 Introduces basic machine learning concepts and techniques using `sklearn`. Covers simple models like linear regression and explores overfitting and testing.  
 **Topics:**
-- Linear regression
+- Linear regression, logistic regression, neural networks
 - Training and test datasets
 - Mean Squared Error (MSE) evaluation  
 

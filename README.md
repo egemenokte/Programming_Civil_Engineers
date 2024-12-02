@@ -132,3 +132,7 @@ To open the **P1: Python Basics and Data Types** notebook, paste:
 ## Contributing
 
 Contributions to enhance the materials or suggest improvements are welcome! Please submit a pull request or open an issue for discussion.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

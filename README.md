@@ -21,8 +21,8 @@ Welcome to the GitHub repository for CEE 244: Programming for Engineers, a cours
   - [Large Language Models Demo](#3-large-language-models-demo)
   - [Truss Analysis - CEE244 Programming - UMass Amherst](#4-truss-analysis)
 - [How to Use](#how-to-use)
-  - [Using with Google Colab](#using-with-google-colab)
-  - [Using with Google Colab](#using-with-google-colab)
+  - [Clone](#Method-1:-Clone)
+  - [Using with Google Colab](#Method-2:-Open-Directly-in-Google-Colab)
 - [Contributing](#contributing)
 - [License](#license)
 

@@ -121,12 +121,12 @@ To open notebooks directly from GitHub in Google Colab:
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Go to **File > Open Notebook**.
 3. Select the **GitHub** tab.
-4. Paste the GitHub URL of the notebook (e.g., `https://github.com/egemenokte/Programming_Civil_Engineers/blob/main/P1_Python_Basics_Data_Types.ipynb`) and press Enter.
+4. Paste the GitHub URL of the notebook (e.g., `https://github.com/egemenokte/Programming_for_Engineers/blob/main/P1_Python_Basics_Data_Types.ipynb`) and press Enter.
 5. Click on the notebook name to open it in Colab.
 
 Example:  
 To open the **P1: Python Basics and Data Types** notebook, paste:  
-`https://github.com/egemenokte/Programming_Civil_Engineers/blob/main/P1_Python_Basics_Data_Types.ipynb`
+`https://github.com/egemenokte/Programming_for_Engineers/blob/main/P1_Python_Basics_Data_Types.ipynb`
 
 ---
 ## Contributing

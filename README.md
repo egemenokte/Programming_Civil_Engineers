@@ -15,9 +15,14 @@ Welcome to the GitHub repository for CEE 244: Programming for Engineers, a cours
   - [P7: Symbolic and Numerical Mathematics](#p7-symbolic-and-numerical-mathematics)
   - [P8: Introduction to Machine Learning](#p8-introduction-to-machine-learning)
   - [P9: Statistical Simulations](#p9-statistical-simulations)
+- [Applications](#applications)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
+
+---
+
+Let me know if you need further modifications!
 
 ## Overview
 
@@ -100,6 +105,49 @@ Covers statistical simulation techniques to model uncertainty and variability in
 - Monte Carlo simulations
 - Random number generation
 - Risk and uncertainty analysis  
+
+## Applications
+
+
+There are some applications in the applications folder. There could be more than the ones listed here. 
+
+### 1. Double Pendulum Animation in Python
+Simulates and animates a chaotic double pendulum system resembling a stick figure named "Freddy." This demonstration showcases the principles of chaotic motion through matplotlib animations.  
+**Key Features**:
+- Models physics with parameters like gravity, pendulum lengths, and initial angles.
+- Animates stick figure components (head, arms, legs) using double pendulum equations.  
+[Learn more here](https://medium.com/@egemenokte/double-pendulum-freddy-creating-a-dancing-stick-figure-with-python-7cb5e0c94154).
+
+---
+
+### 2. Eight Queens Puzzle Solver
+Solves the classic Eight Queens problem using a recursive backtracking algorithm. The goal is to place eight queens on a chessboard without conflicts.  
+**Key Features**:
+- Validates queen placements using row, column, and diagonal checks.
+- Visualizes solutions on a chessboard with seaborn heatmaps.  
+[Learn more here](https://medium.com/@egemenokte/solving-the-8-queens-puzzle-recursively-with-python-6440078b68ad).
+
+---
+
+### 3. Large Language Models Demo
+Interacts with an open-source language model (Llama 3.1) via a user-friendly interface. Experiment with the system and user prompts to observe changes in responses.  
+**Key Features**:
+- Configure system behavior with custom prompts.
+- Explore real-time interaction with an advanced language model.  
+[More details on Llama 3.1](https://github.com/ollama/ollama).
+
+---
+
+### 4. Truss Analysis 
+Analyzes internal forces in truss structures using principles of statics. This application calculates member forces, reactions at supports, and visualizes the results.  
+**Key Features**:
+- Defines nodes, edges, supports, and loads for a truss.
+- Solves statically determinate trusses with equilibrium equations.
+- Visualizes the structure and annotated forces.  
+
+This tool serves as an educational resource for courses in statics and structural analysis, helping students understand force distribution in truss systems.
+
+---
 
 ## How to Use
 

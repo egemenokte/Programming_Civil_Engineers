@@ -19,7 +19,7 @@ Welcome to the GitHub repository for CEE 244: Programming for Engineers, a cours
   - [Double Pendulum Animation in Python](#double-pendulum-animation-in-python)
   - [Eight Queens Puzzle Solver](#eight-queens-puzzle-solver)
   - [Large Language Models Demo](#large-language-models-demo)
-  - [Truss Analysis - CEE244 Programming - UMass Amherst](#truss-analysis---cee244-programming---umass-amherst)
+  - [Truss Analysis - CEE244 Programming - UMass Amherst](#truss-analysis)
 - [How to Use](#how-to-use)
   - [Method 1: Clone](#method-1-clone)
   - [Method 2: Open Directly in Google Colab](#method-2-open-directly-in-google-colab)

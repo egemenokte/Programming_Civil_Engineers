@@ -16,13 +16,14 @@ Welcome to the GitHub repository for CEE 244: Programming for Engineers, a cours
   - [P8: Introduction to Machine Learning](#p8-introduction-to-machine-learning)
   - [P9: Statistical Simulations](#p9-statistical-simulations)
 - [Applications](#applications)
+  - [Double Pendulum Animation in Python](#1-double-pendulum-animation-in-python)
+  - [Eight Queens Puzzle Solver](#2-eight-queens-puzzle-solver)
+  - [Large Language Models Demo](#3-large-language-models-demo)
+  - [Truss Analysis - CEE244 Programming - UMass Amherst](#4-truss-analysis---cee244-programming---umass-amherst)
 - [How to Use](#how-to-use)
+  - [Using with Google Colab](#using-with-google-colab)
 - [Contributing](#contributing)
 - [License](#license)
-
----
-
-Let me know if you need further modifications!
 
 ## Overview
 
